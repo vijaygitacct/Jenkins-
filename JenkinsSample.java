@@ -11,7 +11,7 @@ public class JenkinsSample {
 		System.out.println("5th Line");
 		System.out.println("Vijaykumar");
 		System.out.println("Rocky");
-		Sysm.out.priln(5th Line)
+		
 		
 		
 	}
